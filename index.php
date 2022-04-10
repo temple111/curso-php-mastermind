@@ -59,7 +59,7 @@ $contacts = [
             <a class="nav-link" href="/contacts-app/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/contacts-app/add.html">Add Contact</a>
+            <a class="nav-link" href="/contacts-app/add.php">Add Contact</a>
           </li>
         </ul>
       </div>
