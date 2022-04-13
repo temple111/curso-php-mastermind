@@ -20,7 +20,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST") {
     
     $statement->execute();
   
-    header("Location: index.php");
+    header("Location: home.php");
   }
 }
 
