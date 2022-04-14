@@ -1,3 +1,7 @@
+body {
+    overflow: hidden;
+}
+
 .navbar img{
     width: 1.6rem;
 }
